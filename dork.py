@@ -1,6 +1,6 @@
 import sys
 import os
-dork = '''Dork Generator By Pawa, Bji Kurdistan
+dork = '''Dork Generator By Skorpiooo, 1877 Team Forever
 =================================
 view_items.php?id= paia
 home.php?cat= paia
@@ -2560,8 +2560,8 @@ print("""\033[93m
  ____  ____  _  ______
 |  _ \|  _ \| |/ / ___| Dork Generator For Operations
 | | | | |_) | ' / |  _  Against Enemy Country
-| |_| |  _ <| . \ |_| | \033[31mBijî Serok Apo, \033[33mBijî Kurd \033[32mBijî Kurdistan\033[93m
-|____/|_| \_\_|\_\____| Coded By : Pawa
+| |_| |  _ <| . \ |_| | \033[31m1877 Team Forever, \033[33mBijî 1877 \033[32mKurdish And Proud\033[93m
+|____/|_| \_\_|\_\____| Coded By : Skorpiooo
 """)
 url=input("\033[93mInput A Country Domain:")
 f = open("Lastest Dork.txt", "w+")
